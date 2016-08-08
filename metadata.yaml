@@ -1,0 +1,30 @@
+_repo: Campaign-of-the-Indus--13-In-a-Series-of-Letters-from-an-Officer-of-the-Bombay-Division_12863
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holdsworth, T. W. E.
+    gutenberg_agent_id: '4676'
+    url: http://www.gutenberg.org/2009/agents/4676
+  editor:
+    agent_name: Holdsworth, A. H. (Arthur Howe)
+    alias: Holdsworth, Arthur Howe
+    birthdate: 1780
+    deathdate: 1860
+    gutenberg_agent_id: '39975'
+    url: http://www.gutenberg.org/2009/agents/39975
+description: ''
+gutenberg_issued: '2004-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Afghan Wars'
+- GITenberg
+title: "Campaign of the Indus\r\nIn a Series of Letters from an Officer of the Bombay\
+  \ Division"
+url: http://www.gutenberg.org/ebooks/12863
